@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602066534 source:c:\users\wambugu\desktop\folder\mutex\main.c
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
